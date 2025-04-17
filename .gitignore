@@ -1,0 +1,11 @@
+﻿HumanHabit/.idea
+HumanHabit/HumanHabit.Api/bin
+HumanHabit/HumanHabit.Api/obj
+HumanHabit/HumanHabit.Application/bin
+HumanHabit/HumanHabit.Application/obj
+HumanHabit/HumanHabit.Domain/bin
+HumanHabit/HumanHabit.Domain/obj
+HumanHabit/HumanHabit.Infrastructure/bin
+HumanHabit/HumanHabit.Infrastructure/obj
+HumanHabit/HumanHabit.Test/bin
+HumanHabit/HumanHabit.Test/obj
